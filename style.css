@@ -1,0 +1,138 @@
+body{
+    background-color:#000000;
+    color: #ffffff;
+    font-family: 'Macondo', cursive;
+}
+
+.verticalLine {
+  border-left: solid thick #ff0000;
+  border-left-color: #003da3;
+  background-color: #93bcff;
+  font-family: 'Dosis', sans-serif;
+  
+  
+}
+
+.div{
+    border-left: solid thick;
+    border-left-color: #fcfdff;
+}
+
+.INDIA{
+    border-left: solid thick;
+    border-left-color: #fc0000;
+    background-color: #ff9191;
+    font-family: 'Dosis', sans-serif;
+    
+}
+
+.hellenistic{
+    height: 50%;
+    width: 100%;
+    
+}
+
+.INDIa{
+    height: 50%;
+    width: 50%;
+}
+
+.Ghana{
+    color: black;
+    border-left: solid thick;
+    border-left-color: #f5ff00;
+    background-color: #fbff91;
+    font-family: 'Dosis', sans-serif;
+}
+
+.GHANA{
+    height: 50%;
+    width: 100%;
+}
+
+.Mali{
+    color: black;
+    border-left: solid thick;
+    border-left-color: #f5ff00;
+    background-color: #fbff91;
+    font-family: 'Dosis', sans-serif; 
+}
+
+.Songhai{
+    color: black;
+    border-left: solid thick;
+    border-left-color: #f5ff00;
+    background-color: #fbff91;
+    font-family: 'Dosis', sans-serif; 
+}
+
+.Han{
+    color: black;
+    border-left: solid thick;
+    border-left-color: #ff00ed;
+    background-color: #ffaff9;
+    font-family: 'Dosis', sans-serif;
+}
+
+.HAN{
+    height: 50%;
+    width: 100%;
+}
+
+.Tang{
+    color: black;
+    border-left: solid thick;
+    border-left-color: #ff00ed;
+    background-color: #ffaff9;
+    font-family: 'Dosis', sans-serif;
+}
+
+.Song{
+    color: black;
+    border-left: solid thick;
+    border-left-color: #ff00ed;
+    background-color: #ffaff9;
+    font-family: 'Dosis', sans-serif;
+}
+
+.Japan{
+    color: black;
+    border-left: solid thick;
+    border-left-color: #ff0072;
+    background-color: #ffc9e1;
+    font-family: 'Dosis', sans-serif;
+}
+
+.ISlam{
+    height: 50%;
+    width: 100%;
+}
+
+.Islam{
+    color: black;
+    border-left: solid thick;
+    border-left-color: #ff9700;
+    background-color: #ffe9c9;
+    font-family: 'Dosis', sans-serif;
+}
+
+.MOngols{
+    height: 50%;
+    width: 100%;
+}
+
+.Mongols{
+    color: black;
+    border-left: solid thick;
+    border-left-color: #d000ff;
+    background-color: #eea3ff;
+    font-family: 'Dosis', sans-serif;
+}
+
+.Europe{
+    color: black;
+    border-left: solid thick;
+    border-left-color: #065100;
+    background-color: #81f977;
+    font-family: 'Dosis', sans-serif;
+}
